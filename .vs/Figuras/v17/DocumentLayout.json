@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jabyg\\OneDrive\\Escritorio\\POO\\Figuras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF3F7F-239A-401B-938D-90840746CEED}|Figuras\\Figuras.csproj|c:\\users\\jabyg\\onedrive\\escritorio\\poo\\figuras\\figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF3F7F-239A-401B-938D-90840746CEED}|Figuras\\Figuras.csproj|solutionrelative:figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jabyg\\OneDrive\\Escritorio\\POO\\Figuras\\Figuras\\Program.cs",
+              "RelativeDocumentMoniker": "Figuras\\Program.cs",
+              "ToolTip": "C:\\Users\\jabyg\\OneDrive\\Escritorio\\POO\\Figuras\\Figuras\\Program.cs",
+              "RelativeToolTip": "Figuras\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:31:39.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

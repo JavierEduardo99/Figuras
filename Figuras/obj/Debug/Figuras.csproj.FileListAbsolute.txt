@@ -1,0 +1,7 @@
+C:\Users\jabyg\OneDrive\Escritorio\POO\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\jabyg\OneDrive\Escritorio\POO\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\jabyg\OneDrive\Escritorio\POO\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\jabyg\OneDrive\Escritorio\POO\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\jabyg\OneDrive\Escritorio\POO\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\jabyg\OneDrive\Escritorio\POO\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\jabyg\OneDrive\Escritorio\POO\Figuras\Figuras\obj\Debug\Figuras.pdb
